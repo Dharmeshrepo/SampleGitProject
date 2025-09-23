@@ -1,2 +1,4 @@
 22File created from local repo
 22Sept : line1
+
+added newline on 23sept
